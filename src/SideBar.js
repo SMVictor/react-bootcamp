@@ -25,7 +25,7 @@ export default class SideBar extends Component {
                 <li><Link to='/About' >About</Link></li>
                 <li><Link to='/Contact' >Contact</Link></li>
               </ul>
-               <li> <a href="/Game"><i class="fa fa-gamepad"></i> <span class="nav-label">Tic Tac Toe</span> </a></li>
+               <li> <a href="/Game"><i className="fa fa-gamepad"></i> <span className="nav-label">Tic Tac Toe</span> </a></li>
             </li>
           </ul>
         </div>
