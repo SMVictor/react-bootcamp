@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
-import SideBar from './SideBar'
-import Contact from './Contact'
-import Header from './Header'
-import About from './About'
-import Home from './Home'
-import Game from './Game'
+import SideBar from './SideBar';
+import Contact from './Contact';
+import Header from './Header';
+import About from './About';
+import Home from './Home';
+import Game from './Game';
 import './App.css';
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-import $ from 'jquery'
+import $ from 'jquery';
 
 class App extends Component {
 
